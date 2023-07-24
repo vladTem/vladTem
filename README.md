@@ -9,9 +9,9 @@
 
 <h2 align="center">
   Full-Stack Developer born in  
-  <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ro.svg" width="25px" alt="Romanian FLag">
-  and based in 
-  <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/gb.svg" width="25px" alt="Romanian FLag">
+  <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ro.svg" width="23px" alt="Romanian FLag">
+ based in 
+  <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/gb.svg" width="23px" alt="Romanian FLag">
 </h2>
 
 <div id="badges" align="center">
