@@ -11,7 +11,7 @@
   Full-Stack Developer born in  
   <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ro.svg" width="23px" alt="Romanian FLag">
  based in 
-  <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/gb.svg" width="23px" alt="Romanian FLag">
+  <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ch.svg" width="23px" alt="">
 </h2>
 
 <div id="badges" align="center">
@@ -38,8 +38,8 @@
 
 - 🔭 I’m currently working on landing my first role
 - 🌱 I’m currently learning data structures & algorithms
-- 💾 Check my projects <a href="https://vladtemneanu.co.uk">here</a>
-- 📫 How to reach me: <a href="https://vladtemneanu.co.uk/#contact">vladtemneanu.co.uk/#contact</a>
+- 💾 Check my projects <a href="https://vladtem.com">here</a>
+- 📫 How to reach me: <a href="https://vladtem.com/#contact-section">vladtem.com/#contact-section</a>
 
 ---
 
